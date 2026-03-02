@@ -11,14 +11,14 @@ It will pave the way to a new independent measurement of the cosmological S8 par
 This organisation showcases the public code and other resources related to the ELROND project.
 
 Team members:
-- Pierre Fleury [@pierrefleury](github.com/pierrefleury)
-- Daniel Johnson [@DanJohnson98](github.com/DanJohnson98)
-- Julien Larena [@julienlarena](github.com/julienlarena)
-- Giacomo Queirolo [@GiacomoQueirolo](github.com/GiacomoQueirolo)
+- Pierre Fleury [@pierrefleury](https://github.com/pierrefleury)
+- Daniel Johnson [@DanJohnson98](https://github.com/DanJohnson98)
+- Julien Larena [@julienlarena](https://github.com/julienlarena)
+- Giacomo Queirolo [@GiacomoQueirolo](https://github.com/GiacomoQueirolo)
 
 Former members/collaborators:
-- Théo Duboscq [@TheoDuboscq](github.com/TheoDuboscq)
-- Natalie Hogg [@nataliehogg](github.com/nataliehogg)
+- Théo Duboscq [@TheoDuboscq](https://github.com/TheoDuboscq)
+- Natalie Hogg [@nataliehogg](https://github.com/nataliehogg)
 
 <!--
 
