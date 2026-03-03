@@ -6,7 +6,7 @@ The standard weak-lensing measure – cosmic shear – consists in observing the
 results from the coherent deflection of light by the large-scale structure of the Universe. This technique is nevertheless 
 limited by our ignorance of the intrinsic shape and orientation of galaxies. The ELROND project proposes to use strong-lensing 
 Einstein rings as “standard shapes” to measure cosmic shear without the systematic errors that inevitably occur when using galaxies as sources. 
-It will pave the way to a new independent measurement of the cosmological S8 parameter and offer novel probes of the distribution of dark matter on small scales.
+It will pave the way to a new independent measurement of the cosmological $S_8$ parameter and offer novel probes of the distribution of dark matter on small scales.
 
 This organisation showcases the public code and other resources related to the ELROND project.
 
