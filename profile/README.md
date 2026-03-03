@@ -1,7 +1,7 @@
 ## ELROND: Einstein Lensing Rings to Observe the Non-baryonic matter Distribution
 
 Weak gravitational lensing is a key probe of the distribution of dark matter in the Universe; 
-it is one of the main focuses of stage-IV galaxy surveys such as Euclid and the Legacy Survey of Space and Time. 
+it is one of the main focuses of stage-IV galaxy surveys such as *Euclid* and the Legacy Survey of Space and Time. 
 The standard weak-lensing measure – cosmic shear – consists in observing the apparent alignment of galaxies that 
 results from the coherent deflection of light by the large-scale structure of the Universe. This technique is nevertheless 
 limited by our ignorance of the intrinsic shape and orientation of galaxies. The ELROND project proposes to use strong-lensing 
@@ -19,6 +19,8 @@ Team members:
 Former members/collaborators:
 - Théo Duboscq [@TheoDuboscq](https://github.com/TheoDuboscq)
 - Natalie Hogg [@nataliehogg](https://github.com/nataliehogg)
+
+This project is supported by the French *Agence Nationale de la Recherche* (ANR-23-CE31-0002)?
 
 <!--
 
