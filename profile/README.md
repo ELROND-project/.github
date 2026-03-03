@@ -20,7 +20,7 @@ Former members/collaborators:
 - Théo Duboscq [@TheoDuboscq](https://github.com/TheoDuboscq)
 - Natalie Hogg [@nataliehogg](https://github.com/nataliehogg)
 
-This project is supported by the French *Agence Nationale de la Recherche* (ANR-23-CE31-0002)?
+This project is supported by the French *Agence Nationale de la Recherche* through the ELROND project (ANR-23-CE31-0002).
 
 <!--
 
